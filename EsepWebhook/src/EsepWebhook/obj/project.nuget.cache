@@ -1,17 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "zcvvwBlm8/3S0NHAeW35R7N7E34aPcTtKip53Ykxo4+8Fn93yLKoi08abQx70aYcXNPmxerZOLN27h/qCgxoLA==",
+  "dgSpecHash": "LPCPfS74uJ5WQlHFik/OXddG7hgifbqM9JV2/P9iNA6uZ7sKKvjpst/atOmZVWoDB01gR98RqNFo+C9hGY7yBA==",
   "success": true,
   "projectFilePath": "/Users/valeaguilar/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/valeaguilar/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
     "/Users/valeaguilar/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
     "/Users/valeaguilar/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
-    "/Users/valeaguilar/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
-    "/Users/valeaguilar/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.15/microsoft.netcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
     "/Users/valeaguilar/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
-    "/Users/valeaguilar/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.15/microsoft.aspnetcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
-    "/Users/valeaguilar/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.15/microsoft.netcore.app.crossgen2.osx-x64.6.0.15.nupkg.sha512"
+    "/Users/valeaguilar/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.15/microsoft.netcore.app.crossgen2.osx-x64.6.0.15.nupkg.sha512",
+    "/Users/valeaguilar/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512"
   ],
   "logs": []
 }
